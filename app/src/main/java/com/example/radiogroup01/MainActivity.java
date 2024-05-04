@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
     RadioButton rbRed, rbGreen, rbBlue, rbWhite;
     Switch swtch;
     LinearLayout LL;
-
+    int x;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
