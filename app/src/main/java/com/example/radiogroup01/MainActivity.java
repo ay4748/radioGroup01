@@ -81,6 +81,7 @@ public class MainActivity extends AppCompatActivity {
         if(swtch.isChecked())
         {
             LL.setBackgroundColor (Color.BLUE);
+            //dodge
         }
     }
 
